@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="bkk_blue">#1B2B8F</color>
+    <color name="bkk_blue_light">#E4E7F7</color>
+    <color name="bkk_orange">#F59E0B</color>
+    <color name="bkk_red">#D9242B</color>
+    <color name="bg_page">#F4F5FA</color>
+    <color name="text_main">#1C1E2B</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="placeholder">#E3E5EC</color>
+</resources>
